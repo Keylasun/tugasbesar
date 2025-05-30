@@ -1,0 +1,9 @@
+CleaningServiceProject/
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── yourname/
+│                   └── CleaningServiceServlet.java
+└── WEB-INF/
+    └── web.xml
